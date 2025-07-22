@@ -1,4 +1,4 @@
-module protoFiles
+module github.com/brokensm1le/protoFiles
 
 go 1.23.4
 
